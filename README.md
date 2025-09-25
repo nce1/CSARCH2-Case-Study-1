@@ -1,13 +1,13 @@
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 6
 
 **Course**: CSARCH2  
-**Section**: ___  
+**Section**: S18  
 **Group Members**:  
-- Name 1  
-- Name 2  
-- Name 3  
-- Name 4  
-- Name 5  
+- Almoradie, Nicole 
+- Domingo, Angela Sophia 
+- Maningas, Nikki Benedict  
+- Villaflor, Hershey Ann  
+- Villas, Gabriel   
 
 ---
 
