@@ -24,23 +24,24 @@ PCPartPicker Permalink: _________
 ### Summary Table 
 | Component       | Model | Price (USD/Php) | Notes |
 |-----------------|-------|-----------------|-------|
-| CPU             | ...   | ...             | ...   |
-| CPU Cooler      | ...   | ...             | ...   |
-| Motherboard     | ...   | ...             | ...   |
-| RAM             | ...   | ...             | ...   |
-| Storage 1       | ...   | ...             | ...   |
-| Storage 2       | ...   | ...             | ...   |
-| Graphics Card   | ...   | ...             | ...   |
-| Power Supply    | ...   | ...             | ...   |
-| Case            | ...   | ...             | ...   |
-| Case Fans       | ...   | ...             | ...   |
-| **Total**       |       | **XXX USD/Php**     |       |
+| CPU             | Intel Core i3-12100 | $139.29 | Comes with an iGPU |
+| CPU Cooler      | Deepcool AK400 | ₱1,250.00 or $21.46 | No price listed in PCPartPicker, price is from Datablitz |
+| Motherboard     | ASRock H610M-HDV/M.2 + D5 Micro ATX | $100.60 ||
+| RAM             | Kingston FURY Beast (1 x 16GB) DDR5-5600 | $59.99 ||
+| Storage 1       |Teamgroup MP33 512GB M.2 2280 | $36.99 ||
+| Storage 2       ||| Opted out of additional storage|
+| Graphics Card   | Intel UHD Graphics 730 || Comes with the CPU |
+| Power Supply    | Thermaltake Smart 500W | $39.99 ||
+| Case            | Cooler Master MasterBox Q300L TUF Gaming Alliance Edition mATX | $39.95 | Comes with a fan |
+| Case Fans       | Stock Case Fan || Comes with the case|
+| **Total**       |       | **$437.27**     |       |
 
+---
 ---
 
 ## 3. Local Manila Build
 This build uses **locally available parts** from Manila vendors.
-Google spreadsheet link: _________  
+Google spreadsheet link: https://docs.google.com/spreadsheets/d/1lNU8Y-kI67gIH4TdXDlgGCZiFH_CAr2JTtBflopEzgs/edit?usp=sharing 
 
 ### Local Build Table
 | Component       | Model | Vendor & Link      | Price (Php) | Compatibility Notes                  |
