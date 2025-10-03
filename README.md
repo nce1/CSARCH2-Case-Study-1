@@ -53,9 +53,9 @@ Google spreadsheet link: [GoogleSheets](https://docs.google.com/spreadsheets/d/1
 | Storage 2 (HDD) |||||
 | GPU             | Intel UHD Graphics 730 ||| Built into the CPU |
 | PSU             | Thermaltake Smart RGB 500W 80 Plus APFC Non-modular Power Supply | [BTZ](https://bermorzone.com.ph/shop/power-sources/thermaltake-smart-rgb-500w-80plus-apfc-non-modular-power-supply/?srsltid=AfmBOorut_IQc_794HdhRcFC0m7-PmjT9A-nOeS-H5djqn8zJxN96wy4)   | 2495 | 500W, 80 Plus, ATX |
-| Case            | RAKK MASID mATX Tempered Gaming Case | [EasyPC](https://easypc.com.ph/collections/pc-case/products/rakk-masid-matx-tempered-gaming-case-white)    | 795 | Supports mATX motherboards, 160mm Maximum CPU Cooler, 120mm Fans |
+| Case            | RAKK MASID mATX Tempered Gaming Case | [EasyPC](https://easypc.com.ph/collections/pc-case/products/rakk-masid-matx-tempered-gaming-case-white)    | 1095 | Supports mATX motherboards, 160mm Maximum CPU Cooler, 120mm Fans |
 | Case Fans       | 3 - STING 120mm Black Case Fan | [DynaQuestPC](https://dynaquestpc.com/collections/cooling-solutions/products/crucial-p2-m-2-250gb-nvme-ssd-ct250p2ssd8)    | 450 | 120mm, 3-pin |
-| **Total**       |       |                    | **19430 Php** | Within budget                        |
+| **Total**       |       |                    | **19730 Php** | Within budget                        |
 
 ---
 
@@ -72,7 +72,7 @@ Google spreadsheet link: [GoogleSheets](https://docs.google.com/spreadsheets/d/1
 
 ## 5. Budget Analysis
 - **Budget Limit:** ₱20,000 
-- **Final Total:** ₱19,430  
+- **Final Total:** ₱19,730  
 - ✅ Within budget
 - **Notes on Trade-offs**
   - Due to budget constraints, we opted to use an Intel Core i3 processor. While older Intel Core i5 processors were considered, most options within this range are from the 10th Generation and are slightly more expensive than the i3-12100. Although these i5 processors generally feature more cores and threads, benchmark results indicate that they do not deliver a significant performance advantage over the i3-12100.
