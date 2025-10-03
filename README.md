@@ -95,10 +95,15 @@ Google spreadsheet link: [GoogleSheets](https://docs.google.com/spreadsheets/d/1
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [YouTube](https://www.youtube.com/watch?v=ic3JCkxhdEw)
 
 ## 8. References
-- Vendor links (PCX, VillMan, etc.)  
-- PCPartPicker build link  
-- Any technical documentation consulted  
+- [Bermozone (BTZ)](https://bermorzone.com.ph/)
+- [DataBlitz](https://ecommerce.datablitz.com.ph/)
+- [DynaQuestPC](https://dynaquestpc.com/)
+- [EasyPC](https://easypc.com.ph/)
+- [PC Express](https://pcx.com.ph/)
+- [PCPartPicker Build Link  ](https://pcpartpicker.com/user/concrete_horse/saved/2qk6qs)
+- [CPU Benchmarks](https://www.cpubenchmark.net/compare/4687vs3737vs5170/Intel-i3-12100-vs-Intel-i5-10400-vs-Intel-i3-13100)
+- [GPU Benchmarks](https://www.videocardbenchmark.net/compare/2910vs4379/GeForce-GT-710-vs-Intel-UHD-Graphics-730)
 
